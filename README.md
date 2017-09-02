@@ -1,6 +1,5 @@
 <h1>Space Invaders and Snake</h1>
-<h2>A classic space invaders games but with a twist. Instead of keyboard inputs, a player conrtols the movement of the ship using a wireless gyroscopic controller
-</h2>
+A classic space invaders games but with a twist. Instead of keyboard inputs, a player conrtols the movement of the ship using a wireless gyroscopic controller
 
 <h2>Deploy</h2>
 1. Both versions of the game are deployed to my personal server:
